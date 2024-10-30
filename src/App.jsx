@@ -3,8 +3,7 @@ import ComponenteA from './components/componenteA';
 import ComponenteB from './components/componenteB';
 
 function App() {
-  const miemoji = "🛫"
-  const miBoton = "Buscar Destino"
+  
   return (
     <>
       <div className='box'>
