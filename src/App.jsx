@@ -1,20 +1,12 @@
 import './App.css';
-import ComponenteA from './components/componenteA';
-import ComponenteB from './components/componenteB';
-
+import './index.css';
 function App() {
   
   return (
     <>
-      <div className='box'>
-        < ComponenteA
-          emoji={miemoji}
-          titulo="Viajes Aventura"
-        />
-        <ComponenteB
-          textoBtn={miBoton}
-        />
-      </div>
+    <div>
+    PRUEBA
+    </div>    
     </>
   )
 }
